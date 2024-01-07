@@ -3,7 +3,7 @@
 
 #include <gtest/gtest.h>
 
-#include "jwevans_crypto/SHA1.h"
+#include "jwevans/cryptography/SHA1.h"
 
 bool
 compare_hashes (uint8_t *expected, uint8_t *result, size_t length)

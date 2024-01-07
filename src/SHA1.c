@@ -2,7 +2,7 @@
 #include <stdint.h>
 #include <string.h>
 
-#include "jwevans_crypto/SHA1.h"
+#include "jwevans/cryptography/SHA1.h"
 
 /////////////////////////////////////////////////////////////////////
 // Constants
